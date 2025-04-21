@@ -9,8 +9,9 @@
 ## 💡 About Me
 
 - 💾 Passionate about digital administration and automation  
-- 🐧 Learning move about the Linux life – Debian-based, CLI over GUI  
+- 🐧 Learning move about the Linux life – Debian-based, CLI over GUI
 - ✍️ Always learning, always tinkering
+- 🎓 Trying to learn about Java development
 
 ---
 
