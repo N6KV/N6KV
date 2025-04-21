@@ -21,4 +21,5 @@
 - 🌙 Lua - Basics
 - ⚙️ C# - Advanced
 - 🌐 HTML + CSS - Basics
+- ☕ Java - Learning
 ---
