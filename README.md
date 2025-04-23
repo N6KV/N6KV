@@ -1,11 +1,5 @@
 # 👋 Hey, I'm N6KV
 
-## 🛠️ Currently Working On
-- 🎯 **Simple-SSH-Login-Scanner** — A Python script that parses system logs (auth.log / journalctl) to detect failed SSH login attempts with timestamp, username, and IP address
-- 🌐 My personal website — It's not live yet, but I'm currently working on it ;)
-
----
-
 ## 💡 About Me
 
 - 💾 Passionate about digital administration and automation  
@@ -13,7 +7,10 @@
 - ✍️ Always learning, always tinkering
 - 🎓 Trying to learn about Java development
 
----
+## 🛠️ Currently Working On
+- 🎯 **Simple-SSH-Login-Scanner** — A Python script that parses system logs (auth.log / journalctl) to detect failed SSH login attempts with timestamp, username, and IP address
+- ☕ **JavaJourney** - A repository all about my first steps with Java. Posting simple programs to build my skills.
+- 🌐 My personal website — It's not live yet, but I'm currently working on it ;)
 
 ## 📟 Tech Stack
 
