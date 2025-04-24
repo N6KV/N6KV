@@ -3,7 +3,7 @@
 ## 💡 About Me
 
 - 💾 Passionate about digital administration and automation  
-- 🐧 Learning move about the Linux life – Debian-based, CLI over GUI
+- 🐧 Learning move about the Linux life
 - ✍️ Always learning, always tinkering
 - 🎓 Trying to learn about Java development
 
@@ -18,5 +18,5 @@
 - 🌙 Lua - Basics
 - ⚙️ C# - Advanced
 - 🌐 HTML + CSS - Basics
-- ☕ Java - Learning
+- ☕ Java - Learning - See my [JavaJourney Repo](https://github.com/N6KV/JavaJourney)!
 ---
