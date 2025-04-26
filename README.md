@@ -13,10 +13,16 @@
 - 🌐 My personal website — It's not live yet, but I'm currently working on it ;)
 
 ## 📟 Tech Stack
-
+### 🌐 Languages
 - 🐍 Python - Basics
 - 🌙 Lua - Basics
 - ⚙️ C# - Advanced
 - 🌐 HTML + CSS - Basics
 - ☕ Java - Learning - See my [JavaJourney Repo](https://github.com/N6KV/JavaJourney)!
----
+## 
+### 🧰 Tools
+- 💡 IntelliJ IDEA
+- 🐍 PyCharm
+- 🕹️ Rider
+- 🖥️ Visual Studio
+- 🔧 Visual Studio Code
