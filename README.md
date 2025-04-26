@@ -13,16 +13,23 @@
 - 🌐 My personal website — It's not live yet, but I'm currently working on it ;)
 
 ## 📟 Tech Stack
-### 🌐 Languages
-- 🐍 Python - Basics
-- 🌙 Lua - Basics
-- ⚙️ C# - Advanced
-- 🌐 HTML + CSS - Basics
-- ☕ Java - Learning - See my [JavaJourney Repo](https://github.com/N6KV/JavaJourney)!
-## 
-### 🧰 Tools
-- 💡 IntelliJ IDEA
-- 🐍 PyCharm
-- 🕹️ Rider
-- 🖥️ Visual Studio
-- 🔧 Visual Studio Code
+### 🔠 Languages
+
+| 🌐 | Language   | Skill Level | Note                                                                 |
+| -- | ---------- | ----------- | -------------------------------------------------------------------- |
+| 🐍 | Python     | Basics      | First experience with Cyber Security, Data Analysis, and Automation. |
+| 🌙 | Lua        | Basics      | Mainly for Game Development, including small projects                |
+| ⚙️ | C#/Unity   | Advanced    | 3D Indie Game Development, working on smaller Multiplayer games.     |
+| 🌐 | HTML + CSS | Basics      | Website -> **Not live Yet...**                                       |
+| ☕ | Java       | Learning    | See my [JavaJourney Repo](https://github.com/N6KV/JavaJourney)!      |
+
+### 🪛 Tools
+
+| 🧰 | Tool                     | My use case          |
+| -- | ------------------------ | -------------------- |
+| 💡 | IntelliJ IDEA (Ultimate) | Java Development     |
+| 🐍 | PyCharm                  | Python Development   |
+| 🕹️ | Rider                    | C#/Unity Development |
+| 🌐 | WebStorm                 | Web Development      |
+| 🔧 | Visual Studio Code       | Everything else      |
+---
